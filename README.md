@@ -1,0 +1,1 @@
+# EdgeAI-Vibration-Monitor
